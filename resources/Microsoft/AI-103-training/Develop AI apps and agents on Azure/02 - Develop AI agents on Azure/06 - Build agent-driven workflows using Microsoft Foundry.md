@@ -38,4 +38,11 @@ The main node types in the workflow builder are:
 
 Power Fx is the low-code, Excel-like language that acts as the glue of a workflow. It allows you to manipulate data, evaluate conditions, and control the flow of execution without writing complex code.
 
+**How formulas work**:
+
+A Power Fx formula is an expression that evaluates to a value. Formulas can reference system and local variables:
+
+- *System variables* provide contextual information about the workflow or conversation, such as the current activity, last message, or user info.
+- *Local variables* store data captured or created during workflow execution and can be used in subsequent node
+
 [source-msft-docs]: https://learn.microsoft.com/en-us/training/modules/build-agent-workflows-microsoft-foundry/
