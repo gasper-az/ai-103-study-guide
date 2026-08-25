@@ -9,5 +9,4 @@ Many large language models (LLMs) can generate output in multiple languages, and
 - Azure Translator in Foundry Tools: A comprehensive translation service for text, with a wide range of supported languages and the ability to create custom translation models.
 - Azure Speech in Foundry Tools: A suite of speech-related tools, including speech-to-text and speech-to-speech translation in multiple languages simultaneously.
 
-
 [src-msft-docs]: https://learn.microsoft.com/en-us/training/modules/translate-text-speech/
